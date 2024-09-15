@@ -32,12 +32,8 @@ p {
   text-align: left;
   margin-left: 10%;
   background-color: black;
-<<<<<<< HEAD
-  width: 33%;
-  max-height: 50%;
-=======
   width: 40%;
->>>>>>> 924907005d830c6c08a5e473f440cc87e2c35e7e
+  max-height: 50%;
 }
 
 #build {
