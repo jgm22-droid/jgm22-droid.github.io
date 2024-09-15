@@ -1,0 +1,213 @@
+
+body{ margin:0;}
+
+#logo { color: blueviolet;
+    font-style: italic; 
+font-size: 50px;
+text-align: center;}
+
+header {
+height: 7vh;
+} 
+#maintop { background-image: url(https://wallpaperaccess.com/full/2825934.gif);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height:100vh;   
+}
+#maintop button:hover {color:green;
+border-color: green;}
+
+h2 {
+  color:white;
+  font-size: 50px;
+  display:flex;
+  justify-content: left;
+  padding:5%;
+}
+
+p {
+  color:white;
+  font-size: 30px;
+  text-align: left;
+  margin-left: 10%;
+  background-color: black;
+  width: 33%;
+}
+
+#build {
+  background-image: url(https://64.media.tumblr.com/7d4b9afc0fc9fab1a740fe25fbc84751/aa76c623f490f375-1f/s1280x1920/5902db6b1bfa592d4fd52624c400ece2b5805332.png);
+  height:100vh;
+  background-size:cover;
+  background-repeat: no-repeat;
+  
+}
+#buildp {
+  display: block;
+  text-align: left;
+  padding: 0%;
+  margin: 0%;
+}
+
+#mine {background-image: url(https://cdn.mos.cms.futurecdn.net/V8QroM8eFn3emAsoFqEuu6-1200-80.jpg);
+  height:100vh;
+  background-size:cover;
+  background-repeat: no-repeat;}
+
+  #animals {
+  background-image: url(https://gamezo.co.uk/wp-content/uploads/2021/02/20210203100756_1.jpg);
+  height:100vh;
+  background-size:cover;
+  background-repeat: no-repeat;}
+
+  #monsters {
+    background-image: url(https://stardewguide.com/wp-content/uploads/2022/12/Royal_Serpent_Stardew_Valley-768x432.jpg);
+    height:100vh;
+    background-size:cover;
+    background-repeat: no-repeat; }
+  
+  #collect
+   {background-image: url(https://th.bing.com/th/id/R.a617ad6d34f262c8d7b9bcbee6cd11dd?rik=lhTYJW4ZAtt1dA&riu=http%3a%2f%2fpiq.codeus.net%2fstatic%2fmedia%2fuserpics%2fpiq_85104_400x400.png&ehk=0iPTSD9Y8Iyv%2fDo9SzVRqo%2bG3m7AJ%2fBNT8h9lGcnGWI%3d&risl=&pid=ImgRaw&r=0);
+    height:100vh;
+  background-size:cover;
+  background-repeat: no-repeat;}
+  #collectimgs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+height: 30%;
+width:30%;
+  }
+  #collect p {
+    width: 80%;
+    align-content: left;
+  }
+  #heart {
+    height:250px;
+    width:250px;
+  }
+  #other {
+    height:250px;
+    width:250px;
+  }
+  #cat{
+    height:250px;
+    width:250px;
+  }
+  #minecraft {
+    height:250px;
+    width:250px; 
+  }
+  #goo {
+    height:250px;
+    width:250px; 
+    transform: scaleX(-1)
+  }
+  
+a {color:white;
+    font-family: fantasy;
+    font-size: 30px;
+    padding: 5px;
+    text-decoration: none ;  
+}
+#homea {
+  color:black;
+  font-family: fantasy;
+    font-size: 30px;
+    padding: 5px;
+    text-decoration: none ;
+}
+#homea:hover {color:red}
+#homea:active {color:rgb(42, 165, 52);}
+
+a:hover {color:red;}
+a:active {color:rgb(42, 165, 52);}
+
+#main-header {display:flex;
+    align-items: center;
+    justify-content:space-around;
+    padding:20px;
+}
+
+.header-link nav a { margin-left: 50px;}
+
+button:hover {border-color: green;}
+
+
+#top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+#top img {
+    height: 30%;
+    width: 30%;
+    
+}
+#top p {
+    font-size: 20px;
+    font-family: fantasy;
+    padding: 40px;
+}
+
+#mid {
+    display:flex;
+    justify-content:space-evenly;
+    background-color: aqua;
+    
+}
+
+#mid img {
+    
+    border: 5px, solid, black;
+    height: 25%;
+    width: 25%;
+   padding:10px;
+   border-radius: 20px 20px 20px 20px;
+}
+H3 {display: flex;
+justify-content: center;}
+
+#mid {background-image: url(https://img.itch.zone/aW1hZ2UvNzAyNDIyLzM4Nzc0MTQucG5n/347x500/KE39sd.png);
+background-position: bottom;}
+
+#Newsletter {
+  background-image: url(https://th.bing.com/th/id/R.7cc10fb44a2256f4f23ccb21411766be?rik=8YxPQHaaYWf03g&riu=http%3a%2f%2fpixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com%2fimage%2fe5fd04dbf0c146b.png&ehk=2ZVa%2fOpjoIIo0f8HEF3LUIaK7BVDIUgsKYPnkbwMKVk%3d&risl=&pid=ImgRaw&r=0);
+  height:100vh;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size:cover;
+  background-position:center;
+
+}
+
+#Newsletter H3 {
+  color: white;
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+}
+#Newsletter p {
+  display: flex;
+  align-items:center;
+  background-color:transparent;
+  padding-left: 25%;
+  color: black;
+}
+.form1 {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+width:30%;
+margin: auto;
+font-size: 40px;
+}
+  
+footer { background-image: url(https://img.itch.zone/aW1hZ2UvNzAyNDIyLzM4Nzc0MTQucG5n/347x500/KE39sd.png);
+  background-size:cover;
+background-repeat: no-repeat;
+height:10vh;
+}
