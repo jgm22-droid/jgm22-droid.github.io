@@ -32,8 +32,9 @@ p {
   text-align: left;
   margin-left: 10%;
   background-color: black;
-  width: 40%;
+  width: 50%;
   max-height: 50%;
+    padding:10%;
 }
 
 #build {
