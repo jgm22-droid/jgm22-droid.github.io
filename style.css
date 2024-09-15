@@ -33,6 +33,7 @@ p {
   margin-left: 10%;
   background-color: black;
   width: 33%;
+  max-height: 50%;
 }
 
 #build {
