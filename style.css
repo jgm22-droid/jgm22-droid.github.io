@@ -32,7 +32,7 @@ p {
   text-align: left;
   margin-left: 1%;
   background-color: black;
-  width:33%;
+  width:40%;
 }
 
 #build {
@@ -171,7 +171,7 @@ button:hover {border-color: green;}
 #mid img {
     
     border: 5px, solid, black;
-    height: 25%;
+    height: 24%;
     width: 25%;
    padding:10px;
    border-radius: 20px 20px 20px 20px;
