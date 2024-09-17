@@ -28,11 +28,11 @@ h2 {
 
 p {
   color:white;
-  font-size: 25px;
+  font-size: 1.2em;
   text-align: left;
   margin-left: 1%;
   background-color: black;
-  width:50%;
+  width:33%;
 }
 
 #build {
@@ -82,6 +82,14 @@ width:30%;
   #collect p {
     width: 80%;
     align-content: left;
+  }
+ #apple {
+    height:250px;
+    width:250px;
+  }
+  #flame {
+    height:250px;
+    width:250px;
   }
   #heart {
     height:250px;
@@ -190,12 +198,15 @@ background-position: bottom;}
   align-items: center;
   font-size: 40px;
 }
-#Newsletter p {
+#newsp {
   display: flex;
   align-items:center;
-  background-color:transparent;
-  padding-left: 25%;
-  color: black;
+    justify-content: center;
+}
+#npp {
+color: black;
+  background-color:transparent;   
+    font-size: 1.7em;
 }
 .form1 {
   display: flex;
@@ -203,7 +214,7 @@ background-position: bottom;}
   align-items: center; 
 width:30%;
 margin: auto;
-font-size: 40px;
+font-size: 1.7em;
 }
   
 footer { background-image: url(https://img.itch.zone/aW1hZ2UvNzAyNDIyLzM4Nzc0MTQucG5n/347x500/KE39sd.png);
