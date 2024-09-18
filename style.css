@@ -82,32 +82,32 @@ p {
     align-content: left;
   }
  #apple {
-    height:240px;
-    width:240px;
+    height:200px;
+    width:200px;
   }
   #flame {
-    height:240px;
-    width:240px;
+    height:200px;
+    width:200px;
   }
   #heart {
-    height:240px;
-    width:240px;
+    height:200px;
+    width:200px;
   }
   #other {
-    height:240px;
-    width:240px;
+    height:200px;
+    width:200px;
   }
   #cat{
-    height:240px;
-    width:240px;
+    height:200px;
+    width:200px;
   }
   #minecraft {
-    height:240px;
-    width:240px; 
+    height:200px;
+    width:200px; 
   }
   #goo {
-    height:240px;
-    width:240px; 
+    height:200px;
+    width:200px; 
     transform: scaleX(-1)
   }
   
