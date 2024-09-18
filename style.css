@@ -163,8 +163,8 @@ button:hover {border-color: green;}
 }
 
 #mid img {
-    border: 5px, solid, black;
-    height: 100px
+    border: 5px solid black;
+    height: 100px;
     width: 100px;
    padding:10px;
     margin: 1%;
