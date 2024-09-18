@@ -164,9 +164,10 @@ button:hover {border-color: green;}
 
 #mid img {
     border: 5px, solid, black;
-    height: 24%;
-    width: 25%;
+    height: 260px
+    width: 260px;
    padding:10px;
+    margin: 1%;
    border-radius: 20px 20px 20px 20px;
 }
 H3 {display: flex;
@@ -189,7 +190,8 @@ background-position: bottom;}
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 40px;   
+  font-size: 40px; 
+    padding: 2%;
 }
 #newsp {
   display: flex;
