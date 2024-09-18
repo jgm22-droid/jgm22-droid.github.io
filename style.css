@@ -33,14 +33,14 @@ p {
   margin-left: 1%;
   background-color: black;
   width:40%;
+  margin-left:2%;
 }
 
 #build {
   background-image: url(https://64.media.tumblr.com/7d4b9afc0fc9fab1a740fe25fbc84751/aa76c623f490f375-1f/s1280x1920/5902db6b1bfa592d4fd52624c400ece2b5805332.png);
   height:100vh;
   background-size:cover;
-  background-repeat: no-repeat;
-  
+  background-repeat: no-repeat;  
 }
 #buildp {
   display: block;
@@ -76,40 +76,38 @@ p {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
-height: 30%;
-width:30%;
   }
   #collect p {
     width: 80%;
     align-content: left;
   }
  #apple {
-    height:250px;
-    width:250px;
+    height:240px;
+    width:240px;
   }
   #flame {
-    height:250px;
-    width:250px;
+    height:240px;
+    width:240px;
   }
   #heart {
-    height:250px;
-    width:250px;
+    height:240px;
+    width:240px;
   }
   #other {
-    height:250px;
-    width:250px;
+    height:240px;
+    width:240px;
   }
   #cat{
-    height:250px;
-    width:250px;
+    height:240px;
+    width:240px;
   }
   #minecraft {
-    height:250px;
-    width:250px; 
+    height:240px;
+    width:240px; 
   }
   #goo {
-    height:250px;
-    width:250px; 
+    height:240px;
+    width:240px; 
     transform: scaleX(-1)
   }
   
@@ -142,18 +140,15 @@ a:active {color:rgb(42, 165, 52);}
 
 button:hover {border-color: green;}
 
-
 #top {
     display: flex;
     align-items: center;
     justify-content: space-between;
-
 }
 
 #top img {
     height: 30%;
-    width: 30%;
-    
+    width: 30%;    
 }
 #top p {
     font-size: 20px;
@@ -164,12 +159,10 @@ button:hover {border-color: green;}
 #mid {
     display:flex;
     justify-content:space-evenly;
-    background-color: aqua;
-    
+    background-color: aqua;   
 }
 
 #mid img {
-    
     border: 5px, solid, black;
     height: 24%;
     width: 25%;
@@ -189,19 +182,19 @@ background-position: bottom;}
   background-color: black;
   background-size:cover;
   background-position:center;
-
 }
 
 #Newsletter H3 {
   color: white;
   display: flex;
   align-items: center;
-  font-size: 40px;
+  justify-content: center;
+  font-size: 40px;   
 }
 #newsp {
   display: flex;
   align-items:center;
-    justify-content: center;
+  justify-content: center;
 }
 #npp {
 color: black;
