@@ -164,8 +164,8 @@ button:hover {border-color: green;}
 
 #mid img {
     border: 5px solid black;
-    height: 100px !important;
-    width: 100px !important;
+    height: 200px !important;
+    width: 200px !important;
    padding: 1px;
     margin: 1%;
    border-radius: 20px 20px 20px 20px;
